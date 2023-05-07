@@ -26,7 +26,7 @@
 
 - run `mix deps.get`
 
-## creating documentsion with ex_doc
+## creating documentaion with ex_doc
 
 - add module documentation underneath each `defmodule`
   ```
