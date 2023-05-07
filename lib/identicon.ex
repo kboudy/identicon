@@ -1,4 +1,8 @@
 defmodule Identicon do
+  @moduledoc """
+  Generates a github-style "identicon" image from an MD5 hash of a string
+  """
+
   def main(input) do
     input
     |> hash_input
